@@ -124,5 +124,12 @@ Bei mir kommen in dieses Fach:
   * darauf den Schlafsack
   * dann Klamotten, am besten in einem Mesh- oder Stoffbeutel nebst Hygienebeutel
   * oben ein schweres Hemd oder ein Fleecepulli, eine jacke und Regencape o.ä.    
-* Außen auf dem Rucksack wird sperriges Zeug befestigt. 
-z.B. Die Isomatte und die Wanderstöcke, wenn man sie nicht braucht.
+* Viele Rucksäcke haben flexible Seitentaschen in Bodennähe. Diese eignen sich gut, um Wasserflaschen zu transportieren oder um sperrige,lange Gegenstände unten zu sichern.
+* Außen auf dem Rucksack wird sperriges oder auch dreckiges, feuchtes Zeug (zum trocknen) befestigt. 
+z.B. 
+  * Isomatte
+  * Wanderstöcke, wenn man sie gerade nicht braucht
+  * langes Werkzeug, wie eine Axt oder längere Sägen
+  * feucht gewordene Unterlegplanen (zum trocknen)
+  * feuchte Handtücher
+  * optional kann man, bei sonnigem Wetter, ein kleines Solarpanel auf dem Rucksack befestigen, um eine kleine Powerbank zu laden.
