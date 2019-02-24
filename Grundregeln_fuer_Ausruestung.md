@@ -44,7 +44,7 @@ Hosen zu tragen.
 * absolut notwendig
 * Kopfbedeckungen schützen vor Witterung und herab fallenden Insekten, wie z.B. Zecken, die sonst in den Haaren landen
 * Wer bei heißer Witterung keinen Sonnenstich will, ist mit einem feuchten, leichtem Röhrenschal (Buff) gut ausgerüstet
-* Bei kalter Witterung ist eine Wollmütze essentiell. Der Körper verliert am meisten Wärme am Kopfbereich
+* Bei kalter Witterung ist eine warme Mütze essentiell. Der Körper verliert am meisten Wärme am Kopfbereich
 
 #### Jacke
 * winddicht
