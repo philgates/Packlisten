@@ -14,6 +14,22 @@ Grundregeln für Ausrüstung
   (trocknet schnell, Taschen oder Rucksack mit Ablaufmöglichkeiten)
 * multipurpose - Dinge die man mit nimmt, sollten vielfältig einsetz- und verwendbar sein
 
+## Schuhe
+* Wer am Schuh spart, bezahlt später (nicht nur Blasenpflaster)!
+* Wanderschuhe oder -stiefel sind ein wichtiger Ausrüstungsgegenstand.
+* Diese sollten den nötigen Halt gegen Umknicken geben, deshalb dürfen sie ruhig über den Knöchel gehen
+* Vor längeren Touren sollten die Stifel oder Schuhe eingelaufen sein. Dazu kann man die Schuhe bei jeder Gelegenheit anziehen, die man so findet. Beim Spaziergang, auf Arbeit, etc. pp. Wie es passt!
+* Im Schuh muss vorne noch Platz sein, wenn man morgens loswandert.
+Der Fuß dehnt sich über den Tag ein wenig aus.
+* Die Community schwört auf Sohlen der Marke Vibram, wegen der extrem guten Gummimischung.
+* Über der Sohle sollte ein Bereich sein, der Geröll abwehrt, meist aus Kunststoff. Das ist eine bewährte Option
+* Das Oberleder des Schuhs sollte glatt sein, das erleichtert die Pflege.
+  * Dreck ist leichter abbürstbar
+  * das Oberleder ist besser mit Wachs oder Schuhcreme pflegbar
+* Goretex im Schuh ist KEIN Fehler.
+* Stiefel mit waschbaren, austauschbaren Einlegesohlen sind gute Stiefel
+* Gute Schuhe sind leider teuer! Unter 200€ findet man fast nichts gutes, sondern eher nur Kompromisse.
+
 ## Nützliches Wissen zu Kleidung
 * getragene Kleidung ist immer so leicht, wie es die Witterung erlaubt
 * Wolle hält im nassen Zustand warm
