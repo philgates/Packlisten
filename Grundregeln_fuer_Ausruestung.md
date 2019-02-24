@@ -1,4 +1,5 @@
 Grundregeln für Ausrüstung
+--------------------------
 
 ## Philosophie
 * Nimm nur das mit, das du brauchst.
