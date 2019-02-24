@@ -28,7 +28,8 @@ Hosenbein hoch grabbeln, wie z.B. Zecken. Außerdem ermöglichen diese, lange Ho
 Hosen zu tragen.
 
 ### Oberteile
-* Hemden mit langen Ärmeln haben sich bewährt.
+* Hemden mit langen Ärmeln und robustem Stoff haben sich bewährt. Pfadfinder tragen nicht umsonst Klufthemden. ;)
   * Diese haben praktische Brusttaschen.
   * Sie können nach Bedarf und Witterung auf- und zugeknöpft werden.
+  * Ärmel können nach Bedarf und Witterung hoch und runter gerollt werden
 * Darunter ein Baumwoll-T-Shirt ist eine gute Wahl
