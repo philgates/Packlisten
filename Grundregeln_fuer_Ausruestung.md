@@ -81,3 +81,8 @@ Hosen zu tragen.
 #### sonstige Kleidung o.ä.
 * Stofftaschentuch
 * Armbanduhr, analog. (Kann bei Tag als Notkompass verwendet werden)
+
+## Rucksäcke
+* Rucksäcke gibt es in verschiedensten Größen und Ausstattungen, je nach Verwendungszweck und Bedürfnissen des Trägers.
+* Rucksäcke mit Mollesystem ermöglichen, zusätzliche Taschen anzubringen und sind deshalb relativ frei konfigurierbar. Allerdings nichts für den Ultralight-Wanderer, wegen dem zusätzlichen Gewicht
+* In Rucksäcken empfiehlt es sich, Ordnung mit Leichten Meshtaschen zu schaffen. 
