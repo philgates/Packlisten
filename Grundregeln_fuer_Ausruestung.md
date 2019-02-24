@@ -1,3 +1,5 @@
+#Grundregeln für Ausrüstung
+
 ## Philosophie
 * Nimm nur das mit, das du brauchst.
 * Minimalismus ist GUT!
@@ -15,3 +17,12 @@
 * getragene Kleidung ist immer so leicht, wie es die Witterung erlaubt
 * Wolle hält im nassen Zustand warm
 * Baumwolle kühlt und saugt Schweiß gut auf
+
+### Hosen
+* lange! Hosen
+* leicht
+* wasserabweisend oder schnell trocknend
+* Hosengummis sind empfehlenswert, gerade wenn man ab und an nicht auf befestigten Wegen
+unterwegs ist. Wird das Hosengummi über den Stifeln getragen, kann einem nichts das
+Hosenbein hoch grabbeln, wie z.B. Zecken. Außerdem ermöglichen diese, lange Hosen als kurze
+Hosen zu tragen.
