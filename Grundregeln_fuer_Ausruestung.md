@@ -29,6 +29,6 @@ Hosen zu tragen.
 
 ### Oberteile
 * Hemden mit langen Ärmeln haben sich bewährt.
-** Diese haben praktische Brusttaschen.
-** Sie können nach Bedarf und Witterung auf- und zugeknöpft werden.
+  * Diese haben praktische Brusttaschen.
+  * Sie können nach Bedarf und Witterung auf- und zugeknöpft werden.
 * Darunter ein Baumwoll-T-Shirt ist eine gute Wahl
