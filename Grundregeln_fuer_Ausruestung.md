@@ -1,5 +1,4 @@
-Grundregeln für Ausrüstung
---------------------------
+# Grundregeln für Ausrüstung
 
 ## Philosophie
 * Nimm nur das mit, das du brauchst.
@@ -85,5 +84,5 @@ Hosen zu tragen.
 
 ## Rucksäcke
 * Rucksäcke gibt es in verschiedensten Größen und Ausstattungen, je nach Verwendungszweck und Bedürfnissen des Trägers.
-* Rucksäcke mit Mollesystem ermöglichen, zusätzliche Taschen anzubringen und sind deshalb relativ frei konfigurierbar. Allerdings nichts für den Ultralight-Wanderer, wegen dem zusätzlichen Gewicht
-* In Rucksäcken empfiehlt es sich, Ordnung mit Leichten Meshtaschen zu schaffen. 
+* Rucksäcke mit Mollesystem ermöglichen, zusätzliche Taschen anzubringen und sind deshalb relativ frei konfigurierbar. Allerdings nichts für den Ultralight-Wanderer, wegen dem zusätzlichen Gewicht.
+* In Rucksäcken empfiehlt es sich, Ordnung mit Leichten Meshtaschen zu schaffen.
