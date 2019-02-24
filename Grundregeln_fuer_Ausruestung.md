@@ -1,4 +1,4 @@
-#Grundregeln für Ausrüstung
+Grundregeln für Ausrüstung
 
 ## Philosophie
 * Nimm nur das mit, das du brauchst.
@@ -21,8 +21,14 @@
 ### Hosen
 * lange! Hosen
 * leicht
-* wasserabweisend oder schnell trocknend
+* wasserabweisend oder schnell trocknend (Jeans sind imho nur bedingt tauglich)
 * Hosengummis sind empfehlenswert, gerade wenn man ab und an nicht auf befestigten Wegen
 unterwegs ist. Wird das Hosengummi über den Stifeln getragen, kann einem nichts das
 Hosenbein hoch grabbeln, wie z.B. Zecken. Außerdem ermöglichen diese, lange Hosen als kurze
 Hosen zu tragen.
+
+### Oberteile
+* Hemden mit langen Ärmeln haben sich bewährt.
+** Diese haben praktische Brusttaschen.
+** Sie können nach Bedarf und Witterung auf- und zugeknöpft werden.
+* Darunter ein Baumwoll-T-Shirt ist eine gute Wahl
