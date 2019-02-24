@@ -106,7 +106,6 @@ Bei mir kommen in dieses Fach:
   * Kocher
   * Geschirr, Besteck, Geschirrhandtuch, Spülmittel, kleiner Schwamm
   * Werkzeuge, wie ein kleines Beil oder eine Säge (außen tragen ist eine Option für Beile oder Sägen. In der Stadt unterwegs, merkt man aber schnell, warum man das nicht tun mag. Ggf. gibt das Ärger mit Behörden.)
-
 * Die Deckelklappe ist gut für Gegenstände auf die man schnell Zugriff haben mag und Kleinzeug.
   * Schlüssel
   * Geldbeutel
@@ -114,16 +113,16 @@ Bei mir kommen in dieses Fach:
   * Powerbank (nebst Solarpanel)
   * Müsliriegel, Kaugummi, Traubenzucker
   * Kleinzeug aller Art.
-
 * Seitenfächer sind gut für Dinge wie
   * Erste Hilfe Paket
   * Set für Wasseraufbereitung
   * Kartenmaterial
   * Werkzeuge...
-
 * Das obere Hauptfach des Rucksacks wird wie folgt beladen
   * schwere Dinge zum Rücken hin
   * ganz unten einen Satz wasserdicht verpackte Ersatzkleidung, am besten vakuumiert
   * darauf den Schlafsack
   * dann Klamotten, am besten in einem Mesh- oder Stoffbeutel nebst Hygienebeutel
-  * oben ein schweres Hemd oder ein Fleecepulli, eine jacke und Regencape o.ä.  
+  * oben ein schweres Hemd oder ein Fleecepulli, eine jacke und Regencape o.ä.    
+* Außen auf dem Rucksack wird sperriges Zeug befestigt. 
+z.B. Die Isomatte und die Wanderstöcke, wenn man sie nicht braucht.
