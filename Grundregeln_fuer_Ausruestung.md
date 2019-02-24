@@ -14,7 +14,13 @@ Grundregeln für Ausrüstung
   (trocknet schnell, Taschen oder Rucksack mit Ablaufmöglichkeiten)
 * multipurpose - Dinge die man mit nimmt, sollten vielfältig einsetz- und verwendbar sein
 
-## Schuhe
+## Nützliches Wissen zu Kleidung
+* getragene Kleidung ist immer so leicht, wie es die Witterung erlaubt
+* Wolle hält im nassen Zustand warm
+* Baumwolle kühlt und saugt Schweiß gut auf
+* Goretex ist teuer, aber eben doch sehr geil!
+
+#### Schuhe
 * Wer am Schuh spart, bezahlt später (nicht nur Blasenpflaster)!
 * Wanderschuhe oder -stiefel sind ein wichtiger Ausrüstungsgegenstand.
 * Diese sollten den nötigen Halt gegen Umknicken geben, deshalb dürfen sie ruhig über den Knöchel gehen
@@ -29,12 +35,6 @@ Der Fuß dehnt sich über den Tag ein wenig aus.
 * Goretex im Schuh ist KEIN Fehler.
 * Stiefel mit waschbaren, austauschbaren Einlegesohlen sind gute Stiefel
 * Gute Schuhe sind leider teuer! Unter 200€ findet man fast nichts gutes, sondern eher nur Kompromisse.
-
-## Nützliches Wissen zu Kleidung
-* getragene Kleidung ist immer so leicht, wie es die Witterung erlaubt
-* Wolle hält im nassen Zustand warm
-* Baumwolle kühlt und saugt Schweiß gut auf
-* Goretex ist teuer, aber eben doch sehr geil!
 
 #### Hosen
 * lange! Hosen
@@ -80,3 +80,4 @@ Hosen zu tragen.
 
 #### sonstige Kleidung o.ä.
 * Stofftaschentuch
+* Armbanduhr, analog. (Kann bei Tag als Notkompass verwendet werden)
