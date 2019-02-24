@@ -83,6 +83,47 @@ Hosen zu tragen.
 * Armbanduhr, analog. (Kann bei Tag als Notkompass verwendet werden)
 
 ## Rucksäcke
+
+#### Grundlegendes zu Rucksäcken und Rucksackauswahl
 * Rucksäcke gibt es in verschiedensten Größen und Ausstattungen, je nach Verwendungszweck und Bedürfnissen des Trägers.
-* Rucksäcke mit Mollesystem ermöglichen, zusätzliche Taschen anzubringen und sind deshalb relativ frei konfigurierbar. Allerdings nichts für den Ultralight-Wanderer, wegen dem zusätzlichen Gewicht.
-* In Rucksäcken empfiehlt es sich, Ordnung mit Leichten Meshtaschen zu schaffen.
+* Rucksäcke mit Mollesystem ermöglichen, zusätzliche Taschen anzubringen und sind deshalb relativ frei konfigurierbar. Ich persönlich stehe sehr darauf! Allerdings sind diese nichts für den Ultralight-Wanderer, wegen dem zusätzlichen Gewicht. Molle wiegt.
+* In Rucksäcken mit mehr Packvolumen empfiehlt es sich, Ordnung mit leichten Meshtaschen zu schaffen.
+* Nimm immer den kleinst möglichen Rucksack für die jeweilige Unternehmung, sonst schleppst du unnötiges Zeug mit dir rum. Mehr Packvolumen, mehr unnötiges Zeug.
+* Ein Fahrradrucksack ist eine blöde Idee zum Wandern! Ein Tagesrucksack auf dem Fahrrad ist aber mMn okay.
+* Was solltest du beachten, wenn du einen Rucksack kaufst zum Wandern?
+  * ordentlich verarbeitet
+  * robust
+  * ordentliches verarbeitetes, verstellbares Tragesystem
+  * bei größeren Modellen sollten Rucksäcke einen Hüftgurt besitzen, der einen großen Teil des Gewichts auf die Hüfte umleitet. Das verhindert Schmerzen und Abscheuerungen an den Schultern.
+
+#### Rucksäcke packen, grundsätzliches
+* Packlisten für verschiedene Unternehmungen findest du (bald) hier im Repository. Ich verlinke sie hier asap.
+* Schwere Gegenstände, wie z.B. Wasserblasen für ein Trinksystem, kommen so nahe wie möglich an den Rücken. Viele Rucksäcke haben extra dafür genau an dieser Stelle ein Seperationsfach und eine Schlaufe, in die man eine Blase einhängen kann, nebst Durchführungen für die zugehörigen Trinkschläuche.
+
+* Der untere Teil bei größeren Rucksäcken wird oft als "Schlafsackfach" bezeichnet und hat oft einen seperaten Zugang. Der Schlafsack ist dort aber nicht wirklich gut aufgehoben. Der Schlafsack wird auf dem Weg nicht gebraucht, sondern  nur Abends. Er kommt ins obere Fach, fast ganz nach unten. Außerdem werden Dinge im imho falsch benannten Schlafsackfach ggf. auch schneller feucht, wenn man den Rucksack versehentlich in Matsch, nasses Gras oder eine Pfütze abstellt. Der Schlafsack sollte auf keinen Fall nass werden, versteht sich von selbst.
+Bei mir kommen in dieses Fach:
+  * wasserdicht verpackte Lebensmittel
+  * Kocher
+  * Geschirr, Besteck, Geschirrhandtuch, Spülmittel, kleiner Schwamm
+  * Werkzeuge, wie ein kleines Beil oder eine Säge (außen tragen ist eine Option für Beile oder Sägen. In der Stadt unterwegs, merkt man aber schnell, warum man das nicht tun mag. Ggf. gibt das Ärger mit Behörden.)
+
+* Die Deckelklappe ist gut für Gegenstände auf die man schnell Zugriff haben mag und Kleinzeug.
+  * Schlüssel
+  * Geldbeutel
+  * Kartenmaterial
+  * Powerbank (nebst Solarpanel)
+  * Müsliriegel, Kaugummi, Traubenzucker
+  * Kleinzeug aller Art.
+
+* Seitenfächer sind gut für Dinge wie
+  * Erste Hilfe Paket
+  * Set für Wasseraufbereitung
+  * Kartenmaterial
+  * Werkzeuge...
+
+* Das obere Hauptfach des Rucksacks wird wie folgt beladen
+  * schwere Dinge zum Rücken hin
+  * ganz unten einen Satz wasserdicht verpackte Ersatzkleidung, am besten vakuumiert
+  * darauf den Schlafsack
+  * dann Klamotten, am besten in einem Mesh- oder Stoffbeutel nebst Hygienebeutel
+  * oben ein schweres Hemd oder ein Fleecepulli, eine jacke und Regencape o.ä.  
