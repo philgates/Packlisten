@@ -5,7 +5,8 @@ Die Dinge, die hier stehen, sind Empfehlungen. Keine festen Regeln.
 Sie resultieren aus meinen persönlichen, langjährigen Erfahrungen als Pfadfinder(leiter) und Mensch, der gerne draußen ist.
 Menschen sind verschieden. Also, falls du etwas findest, das für dich besser funktioniert, als das,
 das hier steht: Dann mach es einfach so!
-Ich hoffe, dieser Text hilft dem ein oder anderen. Mir macht es einfach Spaß meine Erfahrungen zusammen zu schreiben.   Viele liebe Grüße und "Gut Pfad", Phil
+Ich hoffe, dieser Text hilft dem ein oder anderen. Mir macht es einfach Spaß meine Erfahrungen zusammen zu schreiben.   
+Viele liebe Grüße und "Gut Pfad", Phil
 
 ## Philosophie
 * Nimm nur das mit, das du brauchst.
