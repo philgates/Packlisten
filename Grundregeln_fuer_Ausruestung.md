@@ -125,7 +125,7 @@ Bei mir kommen ins "Schlafsackfach" folgende Gegenstände:
   * Kartenmaterial
   * Werkzeuge
   * Auch für alles, auf das man schnell Zugriff mag.
-* Das obere Hauptfach des Rucksacks wird wie folgt beladen:
+* Das obere Hauptfach des Rucksacks wird von unten nach oben wie folgt beladen:
   * schwere Dinge zum Rücken hin, tendenziell oben bei leichterem Gelände, flächig zum Rücken bei häufigen Auf- und Abstiegen.
   * ganz unten einen Satz wasserdicht verpackte Ersatzkleidung, am besten vakuumiert (Dazu gibt es wiederverwendbare Vakuumpackbeutel! Eignet sich dann auch wunderbar als Sitzkissen Abends.)
   * darauf den Schlafsack. Diesen empfehle ich in einen großen Packsack zu stecken, statt diesen Kompressionsbeuteln, die oft dabei sind.
