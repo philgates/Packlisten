@@ -103,7 +103,7 @@ Hosen zu tragen.
 * Packlisten für verschiedene Unternehmungen findest du (bald) hier im Repository. Ich verlinke sie hier asap.
 * Schwere Gegenstände, wie z.B. Wasserblasen für ein Trinksystem, kommen so nahe wie möglich an den Rücken. Viele Rucksäcke haben extra dafür genau an dieser Stelle ein Seperationsfach und eine Schlaufe, in die man eine Blase einhängen kann, nebst Durchführungen für die zugehörigen Trinkschläuche.
 * Nichts sollte im oder am Rucksack baumeln, schaukeln oder hin und her wippen. Das frisst unnötig die Energie des Trägers, der unterbewusst gegen diese Bewegungen arbeitet. Alles ist festgezurrt, hat seinen Platz. Nichts klappert!
-* Der untere Teil bei größeren Rucksäcken wird oft als "Schlafsackfach" bezeichnet und hat oft einen seperaten Zugang. Der Schlafsack ist dort aber nicht wirklich gut aufgehoben. Der Schlafsack wird auf dem Weg nicht gebraucht, sondern  nur Abends. Er kommt ins obere Fach, fast ganz nach unten. Außerdem werden Dinge im imho falsch benannten Schlafsackfach ggf. auch schneller feucht, wenn man den Rucksack versehentlich in Matsch, nasses Gras oder eine Pfütze abstellt. Der Schlafsack sollte auf keinen Fall nass werden, versteht sich von selbst.
+* Der untere Teil bei größeren Rucksäcken wird oft als "Schlafsackfach" bezeichnet und hat oft einen seperaten Zugang. Der Schlafsack ist dort aber nicht wirklich gut aufgehoben. Der Schlafsack wird auf dem Weg nicht gebraucht, sondern  nur Abends. Er kommt ins obere Hauptfach, fast ganz nach unten. Außerdem werden Dinge im imho falsch benannten Schlafsackfach ggf. auch schneller feucht, wenn man den Rucksack versehentlich in Matsch, nasses Gras oder eine Pfütze abstellt. Gute Rucksäcke haben am Boden wassedichtes, verstärktes Material ohne Naht! Der Schlafsack sollte auf keinen Fall nass werden, versteht sich von selbst.
 Bei mir kommen ins "Schlafsackfach" folgende Gegenstände:
   * wasserdicht verpackte Lebensmittel
   * Kocher
@@ -128,9 +128,9 @@ Bei mir kommen ins "Schlafsackfach" folgende Gegenstände:
 * Das obere Hauptfach des Rucksacks wird von unten nach oben wie folgt beladen:
   * schwere Dinge zum Rücken hin, tendenziell oben bei leichterem Gelände, flächig zum Rücken bei häufigen Auf- und Abstiegen.
   * ganz unten einen Satz wasserdicht verpackte Ersatzkleidung, am besten vakuumiert (Dazu gibt es wiederverwendbare Vakuumpackbeutel! Eignet sich dann auch wunderbar als Sitzkissen Abends.)
-  * darauf den Schlafsack. Diesen empfehle ich in einen großen Packsack zu stecken, statt diesen Kompressionsbeuteln, die oft dabei sind.
-  * dann Klamotten, am besten in einem Mesh- oder Stoffbeutel nebst Hygienebeutel
-  * oben ein schweres Hemd oder ein Fleecepulli bei kalter Witterung, eine jacke und Regencape o.ä. So hat man direkt Zugriff darauf, falls es zu kalt oder zu nass werden sollte.
+  * darauf den Schlafsack. Diesen empfehle ich in einen großen Packsack zu stecken, statt diesen Kompressionsbeuteln, die oft dabei sind. Mehr dazu beim Thema "Schlafen" weiter unten im Text.
+  * dann Klamotten, am besten in einem wasserdichten Beutel, notfalls eine Plastiktüte o.ä., nebst Hygienebeutel
+  * oben ein schweres Hemd oder ein Fleecepulli bei kalter Witterung, eine jacke und / oder Regencape o.ä. So hat man direkt Zugriff darauf, falls es zu kalt oder zu nass werden sollte.
 * Außen auf dem Rucksack wird sperriges oder auch dreckiges, feuchtes Zeug (zum trocknen, ggf. in Meshbeuteln) befestigt.
   z.B.
     * Isomatte
