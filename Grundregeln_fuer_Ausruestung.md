@@ -166,5 +166,5 @@ Schlafsäcke auf denen nur eine Temperatur steht, gibt es auch. Diese gibt i.d.R
 
 Schlafsäcke gibt es in verschiedenen Varianten.
 
-###### Daunenschlafsäcke
+##### Daunenschlafsäcke
 Schlafsäcke mit __Daunenfüllung__ haben den Vorteil, dass die sehr gut komprimierbar und sehr sehr leicht sind.
