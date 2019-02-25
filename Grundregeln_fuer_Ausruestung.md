@@ -140,4 +140,5 @@ Bei mir kommen ins "Schlafsackfach" folgende Gegenstände:
     * feuchte Handtücher, Klamotten (in Meshbeutel, zum trocknen)
     * optional kann man, bei sonnigem Wetter, ein kleines Solarpanel auf dem Rucksack befestigen, um eine kleine Powerbank zu laden.
 
-## draußen Schlafen
+## Schlafen
+work in progress...
