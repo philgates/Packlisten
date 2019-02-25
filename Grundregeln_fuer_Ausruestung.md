@@ -130,4 +130,14 @@ Bei mir kommen ins "Schlafsackfach" folgende Gegenstände:
   * ganz unten einen Satz wasserdicht verpackte Ersatzkleidung, am besten vakuumiert (Dazu gibt es wiederverwendbare Vakuumpackbeutel! Eignet sich dann auch wunderbar als Sitzkissen Abends.)
   * darauf den Schlafsack. Diesen empfehle ich in einen großen Packsack zu stecken, statt diesen Kompressionsbeuteln, die oft dabei sind.
   * dann Klamotten, am besten in einem Mesh- oder Stoffbeutel nebst Hygienebeutel
-  * oben ein schweres Hemd oder ein Fleecepulli bei kalter Witterung, eine jacke und Regencape o.ä. So hat man direkt Zugriff darauf, falls es zu kalt oder zu nass werden sollte.  
+  * oben ein schweres Hemd oder ein Fleecepulli bei kalter Witterung, eine jacke und Regencape o.ä. So hat man direkt Zugriff darauf, falls es zu kalt oder zu nass werden sollte.
+* Außen auf dem Rucksack wird sperriges oder auch dreckiges, feuchtes Zeug (zum trocknen, ggf. in Meshbeuteln) befestigt.
+  z.B.
+    * Isomatte
+    * Wanderstöcke, wenn man sie gerade nicht braucht
+    * langes Werkzeug, wie eine Axt oder längere Sägen
+    * feucht gewordene Unterlegplanen (zum trocknen)
+    * feuchte Handtücher, Klamotten (in Meshbeutel, zum trocknen)
+    * optional kann man, bei sonnigem Wetter, ein kleines Solarpanel auf dem Rucksack befestigen, um eine kleine Powerbank zu laden.
+
+## draußen Schlafen
