@@ -149,4 +149,22 @@ Bei mir kommen ins "Schlafsackfach" folgende Gegenstände:
     * optional kann man, bei sonnigem Wetter, ein kleines Solarpanel auf dem Rucksack befestigen, um eine kleine Powerbank zu laden.
 
 ## Schlafen
-work in progress...
+Wer draußen schlafen will, hat verschiedene Möglichkeiten. Je nach Witterung variiert die Ausrüstung.
+Die bekannteste Möglichkeit ist der Schlafsack mit Isomatte.
+Hängematten (mit Unterquilt) werden in den letzten Jahren allerdings immer beliebter.
+Imho: Zu Recht!
+
+#### Schlafsäcke
+Grundlegendes: Auf Schlafsäcken sind __Temperaturen__ vermerkt.
+Wollt ihr einen angenehmen Schlaf, ohne zu frieren, haltet euch an den Comfort-Bereich.
+Jede Außentemperatur, die darunter ist, wird unangenehm.
+Der Schlafsack wird euch z.B. im Extrembereich zwar vor dem Erfrieren schützen, mehr aber auch nicht.
+Denkt darüber nach, BEVOR ihr eine Nacht draußen wach liegt und friert.
+Nehmt den richtigen Schlafsack für die vorherrschende Witterung am vorgesehenen Schlafplatz!
+Meine erste negative Erfahrung mit nächtlicher Kälte hatte ich mit 5 Jahren auf einem Pfingstlager eines Sportvereins. Das prägt!
+Schlafsäcke auf denen nur eine Temperatur steht, gibt es auch. Diese gibt i.d.R. den Extrembereich an. Also: Vrsicht!
+
+Schlafsäcke gibt es in verschiedenen Varianten.
+
+###### Daunenschlafsäcke
+Schlafsäcke mit __Daunenfüllung__ haben den Vorteil, dass die sehr gut komprimierbar und sehr sehr leicht sind.
