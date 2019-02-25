@@ -1,6 +1,9 @@
 # Grundregeln für Ausrüstung
 
 ## Vorneweg
+Dieses Dokument ist aktuell noch "work in progress". Es wächst, wird umformuliert, usw.
+Falls euch etwas darin fehlt, merkt es ruhig an. Verlasst euch aber nicht darauf, dass ich es auch wirklich umsetze. Ich mach das hier aus Spaß in mener Freizeit.
+
 Die Dinge, die hier stehen, sind **Empfehlungen**. Keine festen Regeln.
 Sie resultieren aus meinen persönlichen, langjährigen Erfahrungen als Pfadfinder(leiter) und Mensch, der gerne draußen ist.
 Menschen sind verschieden. Also, falls du etwas findest, das für dich besser funktioniert, als das,
