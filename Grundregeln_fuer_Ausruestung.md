@@ -166,7 +166,7 @@ Der Schlafsack wird euch z.B. im Extrembereich zwar vor dem Erfrieren schützen,
 Denkt darüber nach, BEVOR ihr eine Nacht draußen wach liegt und friert.
 Nehmt den richtigen Schlafsack für die vorherrschende Witterung am vorgesehenen Schlafplatz!
 Meine erste negative Erfahrung mit nächtlicher Kälte hatte ich mit 5 Jahren auf einem Pfingstlager eines Sportvereins. Das prägt!
-Schlafsäcke auf denen nur eine Temperatur steht, gibt es auch. Diese gibt i.d.R. den Extrembereich an. Also: Vrsicht!
+Schlafsäcke auf denen nur eine Temperatur steht, gibt es auch. Diese gibt i.d.R. den Extrembereich an. Also: Vorsicht!
 
 Schlafsäcke gibt es in verschiedenen Varianten.
 
