@@ -58,6 +58,7 @@ Hosen zu tragen.
 
 #### Socken
 * Socken sind in unseren Breitengraden aus Wolle. Im Hochsommer kann man auch mal Baumwollsocken tragen.
+* Wandersocken sind prima. Sie unterstützen den Fuß dort, wo er unterstützt werden soll und sind dort gepolstert und weich, wo gerne Blasen entstehen.
 
 #### Oberteile
 * Hemden mit langen Ärmeln und robustem Stoff haben sich bewährt. Pfadfinder tragen nicht umsonst Klufthemden. ;)
