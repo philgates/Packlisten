@@ -171,4 +171,13 @@ Schlafsäcke auf denen nur eine Temperatur steht, gibt es auch. Diese gibt i.d.R
 Schlafsäcke gibt es in verschiedenen Varianten.
 
 ##### Daunenschlafsäcke
-Schlafsäcke mit __Daunenfüllung__ haben den Vorteil, dass die sehr gut komprimierbar und sehr sehr leicht sind.
+Schlafsäcke mit Daunenfüllung haben den __Vorteil__, dass die sehr gut komprimierbar und sehr sehr leicht sind.
+Die __Nachteile__: Feuchtigkeit schadet diesen Schlafsäcken. Die Daunen fangen an zu Klumpen zu bilden und isolieren damit schlechter oder wenn es ganz doof läuft, an manchen Stellen gar nicht mehr. Zudem sind Daunenschlafsäcke teuer, weil sie ein Naturprodukt enthalten. Darüber, wo die Daunen her kommen, möchte ich hier erst gar nicht reden, googelt selbst!
+Daunenschlafsäcke sind deshalb etwas für Touren, auf denen es tendenziell sehr trocken bleibt.
+
+##### Kunstfaserschlafsäcke
+Die __Vorteile__ liegen klar auf der Hand:
+Schlafsäcke mit Kunstfaserfüllung wärmen auch, wenn sie feucht werden. Die Isolierung besteht aus silikonbeschichteten Hohlfasern (z.B. G-Loft). Durch die Silkonbeschichtung wird die Reibung zwischen den Fasern verringert und es bleibt die Bauschfähigkeit erhalten. So können diese auch dann ein schönes, wärmendes, isolierendes Luftpolster bilden, wenn sie leicht feucht sind. Zudem trocknet Kunstfaser relativ schnell wieder ab.
+Kunstfasern sind pflegeleicht: Zuhause den Schlafsack in die Waschmaschine - kein Problem.
+Kunstfaserschlafsäcke gibt es auch für den schmalen Geldbeutel in ansprechender Qualität. Ab ca. 100€ findet ihr etwas Gutes!
+__Nachteile__ gibt es natürlich auch: Kunstfasern wiegen im Verglich zu Daunen etwas mehr und das Packmaß ist größer. 
