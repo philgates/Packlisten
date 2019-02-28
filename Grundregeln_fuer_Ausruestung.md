@@ -200,3 +200,7 @@ Der Schlafsack bildet durch sein Innenfutter eine isolierende Luftschicht. Unter
 
 Auch Isomatten gibt es in verschiedensten Ausführungen und Preisklassen. Wählt diese, die in euren Geldbeutel passt. Hauptsache, ihr habt eine.
 Prinzipiell gilt auch hier, wie bei anderer Ausrüstung: Je kleiner das Packmaß, je leichter das Gewicht, je komfortabler und je besser die Verarbeitung: Um so teurer. Prinzipiell sollte es aber eine einfache Isomatte aus aufgeschäumten Kunststoff tun. Diese sind fast nicht kaputt zu bekommen (weil kleine Löcher egal sind), günstig und nicht schwer. Dafür etwas sperrig. Falls ihr mehr Geld über habt, gibt es diese (fast) selbst aufblasende Isomatten mit Ventil. Bekanntester Hersteller ist Thermarest. Falls diese allerdings ein Loch bekommen z.B. durch Funkenflug am Lagerfeuer, habt ihr ein (Schlaf-)Probem. Wie gesagt: Hauptsache, ihr habt eine!
+
+#### Unterlage
+Unter die Isomatte gehört eine Unterlage, falls ihr nicht in einem Zelt schlaft, das einen Boden hat. Diese schützt nicht nur die Isomatte vor Dreck, sondern auch euren Schlafsack, solltet ihr von der Isomatte herunter kullern im Schlaf. Eine leichte, verstärkte Kunststoffplane aus dem Baumarkt ist fein. Oder ihr googelt nach "Elefantenhaut". Das ist eine verstärkte Kunststoffplane aus dem Armeebedarf, die genau für solche Anwendungen gedacht ist. Diese ist klein im Packmaß, leicht und günstig. Auf ebay, Amazon und Co. werden diese meist unter 15€ gehandelt.
+Notfalls kann man daraus auch ein behelfsmäßiges Tarp bauen. Multipurpose. Gut angelegtes Geld!
