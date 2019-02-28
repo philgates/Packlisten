@@ -1,4 +1,4 @@
-# Packliste für 3-4 Tage Trekking, 
+# Packliste für 3-4 Tage Trekking
 >Schlafen unter freiem Himmel oder Wetterschutzhütten
 
 ## Grundausrüstung
@@ -6,3 +6,4 @@
 * Schlafsack, je nach Witterung (ggf. +Inlay und Biwaksack)
 * Zelt, Plane oder Tarp
 * Isomatte
+* Plane (Elefantenhaut) als Unterlage
