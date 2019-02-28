@@ -168,6 +168,18 @@ Nehmt den richtigen Schlafsack für die vorherrschende Witterung am vorgesehenen
 Meine erste negative Erfahrung mit nächtlicher Kälte hatte ich mit 5 Jahren auf einem Pfingstlager eines Sportvereins. Das prägt!
 Schlafsäcke auf denen nur eine Temperatur steht, gibt es auch. Diese gibt i.d.R. den Extrembereich an. Also: Vorsicht!
 
+##### Ich packe meinen Schlafsack und ich nehme mit...
+* Falls benötigt: Innenschlafsack
+* Einen Wasserdichten Packbeutel in den mein kompletter Rucksack passt. 
+>Einen was?
+>Dazu muss ich ein wenig ausholen.
+>Schlafsäcke kommen fast immer in Kompressionsbeuteln.
+>Diese sind prinzipiell auch wirklich gut, um den Schlafsack zu komprimieren. Komprimieren ist dabei nichts anderes, als Luft, die Nachts das wärmende Polster im Schlafsack bildet, aus diesem heraus zu pressen.
+>Der Nachteil ist, dass diese Kompressionsbeutel den Schlafsack in eine recht unflexible, fast kugelförmige, Form pressen.
+>Deshalb nehme ich dazu einen großen, wasserdichten Packbeutel. Die Luft kann man auch in diesen Packbeuteln heraus pressen. Nur ist man viel flexibler in der Formgebung, was beim Packen sehr hilfreich sein kann. Und: Der Schlafsack ist - Vorteil - wasserdicht verpackt.
+> Nachts kann man seinen Rucksack darin verwahren. Dieser ist dann Wasserdicht verpackt und wird bei möglichen Regen nicht nass, selbst wenn man ihn nur an einen nicht regengeschützten Ast hängt. Man schützt ihn auch gegen Wildtiere, die die Vorräte darin interessant finden könnten. Angefangen bei Mäusen über Siebenschläfer bis hin zum Fuchs.  
+  
+
 Schlafsäcke gibt es in verschiedenen Varianten.
 
 ##### Daunenschlafsäcke
