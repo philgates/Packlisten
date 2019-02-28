@@ -170,15 +170,15 @@ Schlafsäcke auf denen nur eine Temperatur steht, gibt es auch. Diese gibt i.d.R
 
 ##### Ich packe meinen Schlafsack und ich nehme mit...
 * Falls benötigt: Innenschlafsack
-* Einen Wasserdichten Packbeutel in den mein kompletter Rucksack passt. 
+* Einen Wasserdichten Packbeutel in den mein kompletter Rucksack passt.
 >Einen was?
->Dazu muss ich ein wenig ausholen.
->Schlafsäcke kommen fast immer in Kompressionsbeuteln.
->Diese sind prinzipiell auch wirklich gut, um den Schlafsack zu komprimieren. Komprimieren ist dabei nichts anderes, als Luft, die Nachts das wärmende Polster im Schlafsack bildet, aus diesem heraus zu pressen.
->Der Nachteil ist, dass diese Kompressionsbeutel den Schlafsack in eine recht unflexible, fast kugelförmige, Form pressen.
->Deshalb nehme ich dazu einen großen, wasserdichten Packbeutel. Die Luft kann man auch in diesen Packbeuteln heraus pressen. Nur ist man viel flexibler in der Formgebung, was beim Packen sehr hilfreich sein kann. Und: Der Schlafsack ist - Vorteil - wasserdicht verpackt.
-> Nachts kann man seinen Rucksack darin verwahren. Dieser ist dann Wasserdicht verpackt und wird bei möglichen Regen nicht nass, selbst wenn man ihn nur an einen nicht regengeschützten Ast hängt. Man schützt ihn auch gegen Wildtiere, die die Vorräte darin interessant finden könnten. Angefangen bei Mäusen über Siebenschläfer bis hin zum Fuchs.  
-  
+Dazu muss ich ein wenig ausholen.
+Schlafsäcke kommen fast immer in Kompressionsbeuteln.
+Diese sind prinzipiell auch wirklich gut, um den Schlafsack zu komprimieren. Komprimieren ist dabei nichts anderes, als Luft, die Nachts das wärmende Polster im Schlafsack bildet, aus diesem heraus zu pressen.
+Der Nachteil ist, dass diese Kompressionsbeutel den Schlafsack in eine recht unflexible, fast kugelförmige, Form pressen.
+Deshalb nehme ich dazu einen großen, wasserdichten Packbeutel. Die Luft kann man auch in diesen Packbeuteln heraus pressen. Nur ist man viel flexibler in der Formgebung, was beim Packen sehr hilfreich sein kann. Und: Der Schlafsack ist - Vorteil - wasserdicht verpackt.
+Nachts kann man seinen Rucksack darin verwahren. Dieser ist dann Wasserdicht verpackt und wird bei möglichen Regen nicht nass, selbst wenn man ihn nur an einen nicht regengeschützten Ast hängt. Man schützt ihn auch gegen Wildtiere, die die Vorräte darin interessant finden könnten. Angefangen bei Mäusen über Siebenschläfer bis hin zum Fuchs.  
+
 
 Schlafsäcke gibt es in verschiedenen Varianten.
 
@@ -191,5 +191,12 @@ Daunenschlafsäcke sind deshalb etwas für Touren, auf denen es tendenziell sehr
 Die __Vorteile__ liegen klar auf der Hand:
 Schlafsäcke mit Kunstfaserfüllung wärmen auch, wenn sie feucht werden. Die Isolierung besteht aus silikonbeschichteten Hohlfasern (z.B. G-Loft). Durch die Silkonbeschichtung wird die Reibung zwischen den Fasern verringert und es bleibt die Bauschfähigkeit erhalten. So können diese auch dann ein schönes, wärmendes, isolierendes Luftpolster bilden, falls sie leicht feucht sind. Zudem trocknet Kunstfaser relativ schnell wieder ab.
 Kunstfasern sind pflegeleicht: Zuhause den Schlafsack in die Waschmaschine - kein Problem.
-Kunstfaserschlafsäcke gibt es auch für den schmalen Geldbeutel in ansprechender Qualität. Ab ca. 100€ findet ihr etwas, das okay sein sollte. 
+Kunstfaserschlafsäcke gibt es auch für den schmalen Geldbeutel in ansprechender Qualität. Ab ca. 100€ findet ihr etwas, das okay sein sollte.
 __Nachteile__ gibt es natürlich auch: Kunstfasern wiegen im Verglich zu Daunen etwas mehr und das Packmaß ist größer. Verschmerzbar, wenn man sicher sein kann, dass man in einer feuchtkalten Nacht warm bleibt.
+
+#### Isomatten
+Wer in einem Schlafsack schläft, sollte eine Isomatte griffbereit haben. Diese ist nicht nur weich und federt euch schön vom harten Boden ab, sondern sie macht ihrem Namen alle Ehre. Die Hauptaufgabe einer Isomatte ist, zum Boden hin zu isolieren. Aber warum?
+Der Schlafsack bildet durch sein Innenfutter eine isolierende Luftschicht. Unter eurem Gewicht wird das Innenfutter auf der Auflagefläche komprimiert. Nach unten verliert er also seine isolierende Wirkung. Da springt die Isomatte ein und sorgt dafür, dass ihr von unten schön flauschig warm bleibt.
+
+Auch Isomatten gibt es in verschiedensten Ausführungen und Preisklassen. Wählt diese, die in euren Geldbeutel passt. Hauptsache, ihr habt eine.
+Prinzipiell gilt auch hier, wie bei anderer Ausrüstung: Je kleiner das Packmaß, je leichter das Gewicht, je komfortabler und je besser die Verarbeitung: Um so teurer. Prinzipiell sollte es aber eine einfache Isomatte aus aufgeschäumten Kunststoff tun. Diese sind fast nicht kaputt zu bekommen, weil kleine Löcher egal sind, günstig und nicht schwer. Dafür etwas sperrig. Falls ihr mehr Geld über habt, dibt es (fast) selbst aufblasende Isomatten mit Ventil. Falls diese allerdings ein Loch bekommen z.B. durch Funkenflug am Lagerfeuer, habt ihr ein (Schlaf-)Probem.
