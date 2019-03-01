@@ -51,8 +51,7 @@
   * Dingsi für Kaffeezubereitung (optional)
   * Geschirrhandtuch
 * Nahrung
->kann je nach dem auf die Gruppe aufgeteilt werden, vorherige Absprache oder gemeinsamer Einkauf
-
+(kann je nach dem auf die Gruppe aufgeteilt werden, vorherige Absprache oder gemeinsamer Einkauf)
   * Zutaten für geplante Hauptmahlzeiten
   * Frühstück (z.B. Müsli fertig gemischt mit Milchpulver)
   * diverse Gewürze (auf jeden Fall: Salz, Pfeffer, Zucker)
@@ -98,4 +97,3 @@
   * Schmerztabletten
   * Tabletten gegen Durchfall
   * Medikament gegen Sodbrennen
-  
