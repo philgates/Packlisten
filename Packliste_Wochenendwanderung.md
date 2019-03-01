@@ -1,6 +1,6 @@
 # Packliste für 2-4 Tage Trekking
->Schlafen unter freiem Himmel und/oder Wetterschutzhütten
-Gepäck sollte unter 15 Kilo bleiben. 10 Kilo sind erstrebenswert, besser 8.
+> Schlafen unter freiem Himmel und/oder Wetterschutzhütten
+> Gepäck sollte unter 15 Kilo bleiben. 10 Kilo sind erstrebenswert, besser 8.
 
 ## Grundausrüstung
 * Rucksack, ca. 50 Liter Inhalt
