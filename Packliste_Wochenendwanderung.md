@@ -5,7 +5,7 @@
 * Rucksack, ca. 50 Liter Inhalt
 * Schlafsack, je nach Witterung (ggf. + Inlay und Biwaksack)
 * Zelt, Plane oder Tarp
-* Isomatte oder Hängematte
+* Isomatte und/oder Hängematte
 * Plane (Elefantenhaut) als Unterlage (falls mit Isomatte unterwegs)
 
 ## Persönliches
