@@ -84,6 +84,7 @@
 * Müllbeutel (Plural)
 * Klopapier
 * feuchtes Klopapier
+* Kackschaufel (kleine Gartenschaufel o.ä.)
 * Taschentücher
 * Kulturbeutel
   * Zahnbürste
@@ -96,7 +97,7 @@
   * Vaseline oder andere fettige Creme
   * Sonnencreme
   * Lippenstift (ggf. mit UV-Schutz)
-* Erste Hilfe
+* Erste Hilfe (mindestens einer in der Gruppe sollte ein größeres EH-Packet mitnehmen)
   * Rettungsdecke
   * Pflaster
   * Klammerpflaster (Schnittwunden)
@@ -118,7 +119,7 @@
   * Medikament gegen Sodbrennen
   * Mückenschutzmittel
 
-## Gear
+## Gear (Gibt es ein anderes Wort dafür?)
 
 ### Navigation und Kommunikation
 * Wanderkarten (reicht bei einem in der Gruppe)
@@ -132,20 +133,22 @@
 
 ### Werkzeuge
 * Taschenmesser (Multitool oder schweizer Offiziersmesser)
-* größeres Messer (Fahrtenmesser)
+* größeres Messer (Fahrtenmesser) (optional)
 * kleine Axt (optional)
 * leichte Säge (optional)
 * Handkettensäge (optional)
 
 ### Material
 * Panzertape
-* mehrere Meter Schnur, am besten Paracord
+* mehrere Meter Schnur, am besten Paracord oder Reebschnur
 * eine Hand voll Wäscheklammern
 
 ### Nützliches, das man nicht vergessen sollte
-* Taschenlampe und/oder Stirnlampe
+* Taschenlampe und/oder Stirnlampe (!!!)
 * Wanderstöcke
 
 ### Falls noch Platz ist irgendwo
 * Fernglas
 * Digitalkamera (wahrscheinlich überflüssig, weil eh jeder ein Smartphone hat inzwischen)
+
+> Ergänzungen und Korrekturen sehe ich gerne!
