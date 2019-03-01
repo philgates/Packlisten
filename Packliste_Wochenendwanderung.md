@@ -42,11 +42,11 @@
 >Diverse frei erwerbbare Diensthandschuhe kombinieren diese Aufgaben teilweise gut
 
 ### Diese Klamotten wandern (zunächst) in den Rucksack
-* Lage1 + leichte Ersatzhose wasserdicht verpackt, am besten sogar vakuumiert, in den Rucksack für Notfälle
-* Ersatzwandersocken, ca. 1 Paar pro Tag
-* 1 Paar warme Socken für Abends
+* Lage1 + leichte Ersatzhose wasserdicht verpackt, am besten sogar vakuumiert, für Notfälle
+* Wandersocken, ca. 1 Paar pro Tag
+* 1 Paar warme Socken für Abends, wenn man nicht wandert
 * Ersatzunterwäsche
-* Ersatz-T-Shirt
+* Ersatz-T-Shirt(s), ca. 1 pro Tag
 * FlipFlops, Crocs o.ä.
 * Wäschebeutel für Dreckwäsche (notfalls Plastiktüte oder Müllbeutel)
 
@@ -54,6 +54,7 @@
 * Sonnenbrille
 * Armbanduhr
 * Stofftaschentuch
+* Buff oder anderer Röhrenschal
 
 ## Verpflegen
 * Kocher mit Brennstoff oder Hobo (optional)
@@ -144,6 +145,7 @@
 * Panzertape
 * mehrere Meter Schnur, am besten Paracord oder Reebschnur
 * eine Hand voll Wäscheklammern
+* Gummis. Ordinäre Gummis! Vielleicht auch andere für den ein oder anderen...
 
 ### Nützliches, das man nicht vergessen sollte
 * Taschenlampe und/oder Stirnlampe (!!!)
