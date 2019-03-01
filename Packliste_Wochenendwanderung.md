@@ -8,6 +8,16 @@
 * Isomatte oder Hängematte
 * Plane (Elefantenhaut) als Unterlage (falls mit Isomatte unterwegs)
 
+## Persönliches
+> Tipp: Wasserdicht verpacken!
+
+* Bargeld
+* EC-Karte oder Kreditkarte
+* Schlüssel für zu Hause
+* Personalausweis oder Reisepass
+* Impfpass mit eingelegtem Aufschrieb von Unverträglichkeiten/Allergien und Blutgruppe
+* ggf. Organspendeausweis und Kopie einer Patientenverfügung
+
 ## Bekleidung
 >Bekleidung nach Zwiebelprinzip
 
@@ -40,6 +50,11 @@
 * FlipFlops, Crocs o.ä.
 * Wäschebeutel für Dreckwäsche (notfalls Plastiktüte oder Müllbeutel)
 
+### Nicht direkt Kleidung, aber gut, dabei zu haben
+* Sonnenbrille
+* Armbanduhr
+* Stofftaschentuch
+
 ## Verpflegen
 * Kocher mit Brennstoff oder Hobo (optional)
 * Outdoorgeschirr
@@ -53,19 +68,23 @@
 * Nahrung
 (kann je nach dem auf die Gruppe aufgeteilt werden, vorherige Absprache oder gemeinsamer Einkauf)
   * Zutaten für geplante Hauptmahlzeiten
+  * Zwischenmahlzeiten
+  * ergänzende Nahrung wie: Obst, Müsliriegel, Munchies, Schokolade ...
   * Frühstück (z.B. Müsli fertig gemischt mit Milchpulver)
   * diverse Gewürze (auf jeden Fall: Salz, Pfeffer, Zucker)
   * (Instant-)Kaffee, Teebeutel, Magnesiumsprudeltabletten
 * Feuerzeug oder Feuerstahl
 * Trinkflasche(n) oder Beutel. Minimum 2L Gesamtinhalt, besser mehr.
-* Öko-Seife zur Reinigung von Geschirr, Klamotten, Körper
+* Öko-Seife zur Reinigung von Geschirr, Klamotten, (notfalls auch) Körper
 * Kleiner Schwamm
 * Topfkratzerdingsi aus Metallgeflecht (wie heißt das noch mal?)
 * Wasserfilter nebst Zubehör (optional)
 
 ## Hygiene, Gesundheit
+* Müllbeutel (Plural)
 * Klopapier
 * feuchtes Klopapier
+* Taschentücher
 * Kulturbeutel
   * Zahnbürste
   * Zahncreme
@@ -97,3 +116,36 @@
   * Schmerztabletten
   * Tabletten gegen Durchfall
   * Medikament gegen Sodbrennen
+  * Mückenschutzmittel
+
+## Gear
+
+### Navigation und Kommunikation
+* Wanderkarten (reicht bei einem in der Gruppe)
+* Kompass (reicht einer in der Gruppe)
+* GPS-Gerät / GPS-Logger (optional)
+* aufgeladenes Smartphone
+* aufgeladene Powerbank
+* Ladegerät für Smartphone
+* Ladekabel für Smartphone
+* mobiles Solarpanel (optional)
+
+### Werkzeuge
+* Taschenmesser (Multitool oder schweizer Offiziersmesser)
+* größeres Messer (Fahrtenmesser)
+* kleine Axt (optional)
+* leichte Säge (optional)
+* Handkettensäge (optional)
+
+### Material
+* Panzertape
+* mehrere Meter Schnur, am besten Paracord
+* eine Hand voll Wäscheklammern
+
+### Nützliches, das man nicht vergessen sollte
+* Taschenlampe und/oder Stirnlampe
+* Wanderstöcke
+
+### Falls noch Platz ist irgendwo
+* Fernglas
+* Digitalkamera (wahrscheinlich überflüssig, weil eh jeder ein Smartphone hat inzwischen)
