@@ -117,7 +117,9 @@
   * Schmerztabletten
   * Tabletten gegen Durchfall
   * Medikament gegen Sodbrennen
+  * Wundsalbe (rote Salbe und Bepanthen)
   * Mückenschutzmittel
+  * Desinfektionsgel
 
 ## Gear (Gibt es ein anderes Wort dafür?)
 
