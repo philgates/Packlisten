@@ -16,6 +16,7 @@
 * EC-Karte oder Kreditkarte
 * Schlüssel für zu Hause
 * Personalausweis oder Reisepass
+* Krankenkarte oder Auslandskrankendingsi
 * Impfpass mit eingelegtem Aufschrieb von Unverträglichkeiten/Allergien und Blutgruppe
 * ggf. Organspendeausweis und Kopie einer Patientenverfügung
 
